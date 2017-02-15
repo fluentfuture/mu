@@ -1,1 +1,1 @@
-This project has been moved to https://github.com/google/mu.
+This project has been moved to https://github.com/google/mug.
